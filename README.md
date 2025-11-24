@@ -2,7 +2,21 @@
 An overview of the ColorSplode game architecture 
 
 # File Structure
-An overview of some important files in the repo
+LICENSE  
+README.md  
+actor.js  
+button.js  
+font/  
+images/  
+index.html  
+items.js  
+levelsys.js  
+libraries/  
+sketch.js  
+sounds/  
+style.css  
+
+# Important classes per file
 
 ## actor.js
 This file holds the actor class which is the base for both the Bucket class and obsticle classes like the Cat and RogueBucket. 
